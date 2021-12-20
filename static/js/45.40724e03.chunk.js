@@ -1,0 +1,1 @@
+(this["webpackJsonptu-bon"]=this["webpackJsonptu-bon"]||[]).push([[45],{899:function(t,n,c){"use strict";c.r(n);c(0);var e=c(45),u=c(15);n.default=function(t){t.menu;return Object(u.b)(u.a,{children:Object(u.b)(e.c,{})})}}}]);
