@@ -6,11 +6,11 @@
     "static/js/2.f27dac2b.chunk.js": "/static/js/2.f27dac2b.chunk.js",
     "main.css": "/static/css/main.c10248fe.chunk.css",
     "main.js": "/static/js/main.9f4a3124.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.c23be691.js",
+    "runtime-main.js": "/static/js/runtime-main.f30d78f1.js",
     "static/css/5.afb4b1a6.chunk.css": "/static/css/5.afb4b1a6.chunk.css",
     "static/js/5.ee7f81ea.chunk.js": "/static/js/5.ee7f81ea.chunk.js",
     "static/js/6.fb38a48c.chunk.js": "/static/js/6.fb38a48c.chunk.js",
-    "static/js/7.126eec43.chunk.js": "/static/js/7.126eec43.chunk.js",
+    "static/js/7.465bbdc9.chunk.js": "/static/js/7.465bbdc9.chunk.js",
     "static/js/8.f39c6a49.chunk.js": "/static/js/8.f39c6a49.chunk.js",
     "static/js/9.b1ff132b.chunk.js": "/static/js/9.b1ff132b.chunk.js",
     "static/js/10.2c024e3c.chunk.js": "/static/js/10.2c024e3c.chunk.js",
@@ -91,7 +91,7 @@
     "static/media/vi_VN.9a8f94a9.svg": "/static/media/vi_VN.9a8f94a9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c23be691.js",
+    "static/js/runtime-main.f30d78f1.js",
     "static/css/5.afb4b1a6.chunk.css",
     "static/js/5.ee7f81ea.chunk.js",
     "static/css/main.c10248fe.chunk.css",
